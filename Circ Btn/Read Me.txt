@@ -1,0 +1,12 @@
+
+Hey all,
+Thanks for taking time to download this piece of code. Guess it will give you the so called "spark" to develop your own and better controls.
+
+CircButton
+
+CircButton is a custom control, which is like an ordinary command button control, but is circular in shape. It gets focus when you tab from one control to another, and also responds to the spacebarkey to emulate the click event. Well, after everything, it has it's own property page.
+
+Give me suggestions.. it makes me feel am in heaven.
+
+PraveenMenon
+praveenc_1999@yahoo.com
